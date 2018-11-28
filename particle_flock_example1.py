@@ -170,11 +170,7 @@ for i in range(num_particles):
 while True:
     for event in pygame.event.get():
         if event.type in (QUIT, KEYDOWN):
-            if event.key == pygame.K_d:
-                desired_separation += 10
-                print(desired_separation)
-                print('neigh')
-            #break
+            break
         
     for b in objects:
         screen.blit(background, b.pos) # clear sprites
