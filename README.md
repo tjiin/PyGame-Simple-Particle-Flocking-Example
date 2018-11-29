@@ -5,6 +5,14 @@
 Only pygame is needed
 # Flocking
 - Based on (seperation, alignment, cohesion) principles from https://en.wikipedia.org/wiki/Boids
+- Key Control Parameters
+  - max_speed
+  - neighbour_distance
+  - desired_seperatation
+  - desired_neighbours
+  - seperation_weight
+  - cohesion_weight
+  - alignment_weight
 ## Seperation
 - Move away from neighbours that are too close
 ## Alignment
