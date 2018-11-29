@@ -4,7 +4,7 @@
 - Only pygame is needed:```pip install pygame```
 # Flocking
 - Based on (seperation, alignment, cohesion) principles from https://en.wikipedia.org/wiki/Boids
-- *Key Control Parameters*
+- **Key Control Parameters**
   - *max_speed*
   - *neighbour_distance*
   - *desired_seperatation*
