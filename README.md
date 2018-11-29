@@ -1,12 +1,10 @@
 # PyGame-Simple-Particle-Flocking-Example
 ![Alt Text](https://media.giphy.com/media/kiImT3dXTGJgV0fXuN/giphy.gif)
 # Install
-- Only pygame is needed
-
-```pip install pygame```
+- Only pygame is needed:```pip install pygame```
 # Flocking
 - Based on (seperation, alignment, cohesion) principles from https://en.wikipedia.org/wiki/Boids
-- Key Control Parameters
+- *Key Control Parameters*
   - *max_speed*
   - *neighbour_distance*
   - *desired_seperatation*
