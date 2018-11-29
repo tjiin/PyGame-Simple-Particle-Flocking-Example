@@ -1,9 +1,8 @@
+import numpy as np
 import pygame
 from pygame.locals import *
 import random
 import math
-import numpy as np
-from pprint import *
 
 # CONTROL CONSTANTS
 max_speed = 30
