@@ -1,5 +1,5 @@
 # PyGame-Simple-Particle-Flocking-Example
-![Alt Text](https://media.giphy.com/media/kiImT3dXTGJgV0fXuN/giphy.gif)
+![Alt Text](https://media.giphy.com/media/1o1ivfdmqhPfZU3Eda/giphy.gif)
 # Install
 - Only pygame is needed:```pip install pygame```
 # Flocking
