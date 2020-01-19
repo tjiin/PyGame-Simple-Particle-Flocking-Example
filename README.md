@@ -1,5 +1,5 @@
 # PyGame-Simple-Particle-Flocking-Example
-![Alt Text](https://media.giphy.com/media/1o1ivfdmqhPfZU3Eda/giphy.gif)
+![Alt Text](https://i.imgur.com/mftE1Zq.gif)
 # Install
 - Only pygame is needed
 
